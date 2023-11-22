@@ -1,54 +1,44 @@
 
 
-Correlation and School Performance Overview
-
-Spending Ranges (Per Student) vs. % Overall Passing Rate
-The correlation between spending ranges per student and % Overall Passing Rate reveals that schools with higher spending underperformed compared to schools with a smaller budget:
+Schools Performance Overview
+ 
+Analysis of correlation between spending ranges per student and % Overall Passing Rate reveals that schools with budget less $630 have higher average scores and hier percentage passing:
 
 < $580: 90.37%
 $580 - 630: 81.4%
 $630 - 645: 62.85%
 $645 - 680: 53.52%
-School Size Analysis
 
-Categorizing schools into small, medium, and large based on size indicates consistent trends:
+Anslysis of School Size  categorized schools into small (< 1000), medium (1000 -2000), and large. (2000 - 5000). Small-sized schools consistently outperform larger schools:
 
-Average Scores:
-
-Small-sized schools consistently outperform larger schools:
-Average Math Score: Small (83.82), Medium (83.37), Large (77.75).
-Average Reading Score: Small (83.93), Medium (83.86), Large (81.34).
+			<1000.      1000 - 2000     2000-5000
+Average Math Score:     83.82    	83.37	    77.75
+Average Reading Score:  83.93.          83.86.      81.34
 Passing Rates:
 
 Small-sized schools demonstrate significantly higher passing rates:
-% Passing Math: Small (15.75%), Medium (5.53%), Large (2.12%).
-% Passing Reading: Small (16.26%), Medium (5.72%), Large (2.47%).
-% Overall Passing Rate: Small (89.88%), Medium (90.62%), Large (58.29%).
-School Type Analysis
+% Passing Math: 	15.75%		5.53%	    2.12%
+% Passing Reading:      16.26%          5.72%       2.47%
+% Overall Passing Rate: 89.88%.        90.62%       58.29%
+
+School Type Analysis. There are two types of shcools: Charter and District.
 Distinguishing between Charter and District schools reveals:
 
-Average Scores:
-
 Charter schools have higher average scores:
-Average Math Score: Charter (83.47), District (76.96).
-Average Reading Score: Charter (83.90), District (80.97).
+Average Math Score: 	Charter (83.47), 	District (76.96).
+Average Reading Score: 	Charter (83.90), 	District (80.97).
 Passing Rates:
 
 Charter schools show higher passing rates:
-% Passing Math: Charter (7.91%), District (1.83%).
-% Passing Reading: Charter (8.17%), District (2.22%).
-% Overall Passing Rate: Charter (90.43%), District (53.67%).
-School Conclusions
-In summary:
+% Passing Math: 	Charter (7.91%), 	District (1.83%).
+% Passing Reading: 	Charter (8.17%), 	District (2.22%).
+% Overall Passing Rate: Charter (90.43%), 	District (53.67%).
 
-Budget vs. Performance:
+
+Conclusions
 
 Schools with higher budgets didn't consistently show better results.
 Schools with higher spending underperformed compared to schools with a smaller budget.
-School Size Impact:
-
 Smaller-sized schools consistently outperform larger ones across academic metrics.
-School Type Influence:
-
 Charter schools consistently outperform District schools in both average scores and passing rates.
 
